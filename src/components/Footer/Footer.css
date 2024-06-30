@@ -1,0 +1,9 @@
+.footer{
+    background-color: #EAEAEA;
+    /* position: sticky;
+    bottom: 0; */
+}
+
+.text-width{
+    max-width: min-content;
+}
